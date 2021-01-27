@@ -7,6 +7,6 @@ print(h);
 lista1[0]=3;
 print(lista1)
 print(lista1[-1]);
-print(lista1.length())
+print(lista1.len)
 time.sleep(50);
 
