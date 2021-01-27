@@ -7,6 +7,7 @@ print(h);
 lista1[0]=3;
 print(lista1)
 print(lista1[-1]);
-print(lista1[1:55])
-time.sleep(50);
+<<<<<<< HEAD
+print(lista1[1:5])
+
 
